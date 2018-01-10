@@ -17,8 +17,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] Allow the user to change the color scheme of the entire application. Two options: Primary color and Secondary color
-- [ ] User can type in a custom tip value, and then a view will appear stating the tip percentage of the custom value. This will close once either the bill amount is edited or when the SegmentedControl's current value is changed.
+- [X] Allow the user to change the color scheme of the entire application. Two options: Primary color and Secondary color
+- [X] User can type in a custom tip value, and then a view will appear stating the tip percentage of the custom value. This will close once either the bill amount is edited or when the SegmentedControl's current value is changed.
 
 ## Video Walkthrough 
 
